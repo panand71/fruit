@@ -1,3 +1,4 @@
 # fruit
 * bananas
 * oranges
+* pineapple
