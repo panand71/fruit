@@ -2,3 +2,4 @@
 * bananas
 * oranges
 * pineapple
+* apples
